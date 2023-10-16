@@ -1,5 +1,5 @@
 # Generating-Primary-Ovarian-Culture
-This file contains how you can generate a primary ovarian cell culture from human tissue. 
+This file contains how you can generate a primary ovarian cell culture from human tissue. Eventually you can use these cells for xenograft injection, etc.  
 AIM : cell harvesting from ovarian tumor tissue
 Materials : Ovarian tissue samples, sterile blade, cell scraper steril, 1X Ice-Cold PBS, OSE Medium, FBS, Pen-Strep, Gentamicin, Amphotericin b, 60mm cell culture dish, 37C degree incubator.
 Protocol :
@@ -11,4 +11,5 @@ For cell harvesting from tumor tissue, an optimized protocol will be used in our
 - The tissue and the cells to be separated from the tissue are incubated overnight with OSE culture medium. 
 - At the end of the first 24 hours, the cells adhere to the culture plate. At the end of 24 hours, the medium containing the remaining tissue fragments and erythrocytes is removed and fresh medium is added to the culture plate. 
 - Cultured cells are kept under constant observation.
-- After 48 hours, fresh medium is added to the culture medium. Cells reach 60% occupancy between 4-7 days depending on tissue size (Figure 1).   
+- After 48 hours, fresh medium is added to the culture medium. Cells reach 60% occupancy between 4-7 days depending on tissue size.   
+![Picture1](https://github.com/esra-ersoz/Generating-Primary-Ovarian-Culture/assets/148062104/26074c39-fd22-4086-8777-e25e1d936f0d)
